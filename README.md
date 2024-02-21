@@ -1,10 +1,6 @@
 # Spot-the-Mask
 
-<div align="center">
-    <img src = "[https://pbs.twimg.com/media/EVyYt-IU8AALA3x.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myadorna.com%2Fproducts%2Fpack-of-5-anti-pollution-virus-protection-face-masks&psig=AOvVaw1WCVh1kAiPBlBQ7EAKbfq9&ust=1708601496140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCwyNmqvIQDFQAAAAAdAAAAABAF)" 
-     height = "500"
-     width = "1000">
-</div>
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Framrajcotton.in%2Fproducts%2Fwoven-colour-face-mask-3-layer-6-pcs-pack-1&psig=AOvVaw1WCVh1kAiPBlBQ7EAKbfq9&ust=1708601496140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCwyNmqvIQDFQAAAAAdAAAAABAK)
 
 ## 🗒<span style='color:green'> Description </span>
 
