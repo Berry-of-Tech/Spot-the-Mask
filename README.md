@@ -13,7 +13,7 @@ In the midst of concerns over COVID-19 transmission, combining AI solutions with
  
 
 ##  <span style='color:green'> The solution </span> 
-Our solution is based on the architecture of the well-known model <a href="https://pytorch.org/hub/pytorch_vision_densenet/">Densnet</a> and uses the technique of transfer learning to get some learned features from other tasks and use them in this contest to help our custom model to make accurate predictions.
+Our solution is based on the architecture of the well-known model <a href="https://pytorch.org/hub/pytorch_vision_densenet/">Densenet</a> and used the technique of transfer learning to get some learned features from other tasks and use them in this contest to help our custom model to make accurate predictions.
 
 <div align="center">
     <img src = "https://pytorch.org/assets/images/densenet1.png" 
