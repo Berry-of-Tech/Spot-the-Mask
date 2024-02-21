@@ -1,12 +1,10 @@
 # Spot-the-Mask
 
 <div align="center">
-    <img src = "https://github.com/Berry-of-Tech/Spot-the-Mask/blob/main/Spot%20the%20mask.jpg" 
+    <img src = "https://github.com/Berry-of-Tech/Spot-the-Mask/blob/main/spot%20the%20mask%20(2).jpg" 
      height = "500"
      width = "1000">
 </div>
-
-![](https://github.com/Berry-of-Tech/Spot-the-Mask/blob/main/Spot%20the%20mask.jpg)
 
 ## 🗒<span style='color:green'> Description </span>
 
