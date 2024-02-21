@@ -9,11 +9,11 @@
 ## <span style='color:green'> Description </span>
 
 
-In the midst of concerns over COVID-19 transmission, combining AI solutions with increased surveillance can improve monitoring and reduce human effort needed to limit the disease's spread.
+In the midst of concerns over COVID-19 transmission, combining AI solutions with increased surveillance can improve monitoring and reduce the human effort needed to limit the disease's spread.
  
 
-##  😷<span style='color:green'> The solution </span> 🧠
-Our solution is based on the architechture of the well known model <a href="https://pytorch.org/hub/pytorch_vision_densenet/">Densnet</a> and uses the technique of transfer learning to get some learned features form others tasks and use them in this contest to help our custom model to make accurate predictions.
+##  <span style='color:green'> The solution </span> 
+Our solution is based on the architecture of the well-known model <a href="https://pytorch.org/hub/pytorch_vision_densenet/">Densnet</a> and uses the technique of transfer learning to get some learned features from other tasks and use them in this contest to help our custom model to make accurate predictions.
 
 <div align="center">
     <img src = "https://pytorch.org/assets/images/densenet1.png" 
@@ -23,16 +23,9 @@ Our solution is based on the architechture of the well known model <a href="http
 
 The main framework used to implement the model is <a href="https://pytorch.org/get-started/locally/">Pytorch</a>.
 
-With this model and with all the others techniques applied, we have been able to get the following results:
+With this model and with all the other techniques applied, the LogLoss score is **0.023863371267641684**
 
-<div align='center'>
 
-|set        | loss (log_loss)      | accuracy  |
-|-----------|----------------------|-----------|
-|training   |0.001918              | 99.242  % |
-|test       |0.001099342           | 98.141 %  |
-
-</div>
 
 ```
 MIT License
