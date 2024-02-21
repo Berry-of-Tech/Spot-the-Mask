@@ -1,6 +1,6 @@
 # Spot-the-Mask
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Framrajcotton.in%2Fproducts%2Fwoven-colour-face-mask-3-layer-6-pcs-pack-1&psig=AOvVaw1WCVh1kAiPBlBQ7EAKbfq9&ust=1708601496140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCwyNmqvIQDFQAAAAAdAAAAABAK)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vegnonveg.com%2Fproducts%2Fface-cover-3-pack-black&psig=AOvVaw1WCVh1kAiPBlBQ7EAKbfq9&ust=1708601496140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCwyNmqvIQDFQAAAAAdAAAAABAS)
 
 ## 🗒<span style='color:green'> Description </span>
 
