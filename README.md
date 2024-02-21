@@ -1,6 +1,6 @@
 # Spot-the-Mask
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vegnonveg.com%2Fproducts%2Fface-cover-3-pack-black&psig=AOvVaw1WCVh1kAiPBlBQ7EAKbfq9&ust=1708601496140000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCwyNmqvIQDFQAAAAAdAAAAABAS)
+![](https://github.com/Berry-of-Tech/Spot-the-Mask/blob/main/Spot%20the%20mask.jpg)
 
 ## 🗒<span style='color:green'> Description </span>
 
